@@ -1,0 +1,10 @@
+.nav {
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    padding: 2%;
+    margin: 6%;
+    display: inline-block;
+}
